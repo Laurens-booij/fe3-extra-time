@@ -5,8 +5,6 @@ For the subject `Frontend development 3 data` I did a few extra things to furthe
 ## What did I do?
 Below, I listed al the things that I did:
 
-###
-
 ### d3.queue()
 For `Assessment 3` I used a dataset that consisted of ten different files. In order to load al these files, I learned how to use the `d3.queue()` function. I used [the d3.queue git page][d3.queue] as a source for learning how to use it. The code that I ended up writing looks as follows:
 
